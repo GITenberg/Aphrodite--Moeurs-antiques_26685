@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1554
     wikipedia: http://en.wikipedia.org/wiki/Pierre_Lou%C3%BFs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26685#Aphrodite--Moeurs-antiques
 gutenberg_bookshelf:
 - FR Littérature
 - Banned Books from Anne Haight's list
